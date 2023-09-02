@@ -4,7 +4,7 @@ Carl is a online AI that learns by doing searches
 
 TODO: https://github.com/ThirdEyeDog/Carl/issues/1
 
- - This version uses dynamic graph knowledge and is much more accurate. t
+ - This version uses dynamic graph knowledge and is much more accurate. 
  - try questions from this list: https://openstax.org/books/biology-2e/pages/1-critical-thinking-questions
  - the model still doesn't have cache or feedback loop
 
